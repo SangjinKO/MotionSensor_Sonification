@@ -6,6 +6,6 @@ Sonification framework (GUI) using body motion data captured by Kinect
 
 - Sonification App: iISoP (Java based GUI)
 
-- System Integration: Kinect(C#) - OSC - iISoP
+- Interface System: Kinect(C#) - OSC - iISoP
 
 - Source: Mind Music Machine Lab (https://github.com/trimlab/Kinect-iISoP-Integration)
