@@ -1,4 +1,4 @@
-# MotionSensor_Sonification_Integration
+# MotionSensor_Sonification
 
 Sonification framework (GUI) using body motion data captured by Kinect
 
